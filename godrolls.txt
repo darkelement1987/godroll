@@ -1,3 +1,19 @@
+//Community godrolls:
+
+// Bad Omens Tracking / Cluster Bomb
+dimwishlist:item=991314988&perks=3977735242,1275731761
+
+// Kindled Orchid Drop Mag / Kill Clip / Rampage
+dimwishlist:item=2575506895&perks=4134353779,1015611457,3425386926
+
+// Blast Furnace Feeding Frenzy / Kill Clip
+dimwishlist:item=3843477312&perks=2779035018,1015611457
+
+// Blast Furnace Feeding Frenzy / Rampage
+dimwishlist:item=3843477312&perks=2779035018,3425386926
+
+//Godrolls by Mercules904 and Pandapaxxy:
+
 dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926
 dimwishlist:item=2575506895&perks=3250034553,3142289711,1168162263,3425386926
 dimwishlist:item=2575506895&perks=3250034553,1087426260,1168162263,3425386926
