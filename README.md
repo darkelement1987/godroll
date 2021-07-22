@@ -1,8 +1,4 @@
-## NO LONGER MAINTAINED, INSTEAD USE:
-https://gist.github.com/48klocs/79d1a7627e22d48aae1c11143e7dcdb6
-
-Also see: 
-
-https://github.com/darkelement1987/rollfinder
-
+Destiny 2 godroll finder:
 http://www.rollfinder.net
+
+Keywords: destinythegame, destiny2, destiny 2, godroll, godrolls, god, roll
