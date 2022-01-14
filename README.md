@@ -3,6 +3,12 @@ No longer maintained, for rolls/wishlists see following links:
 **For rolls see - Rollfinder:**
 http://www.rollfinder.net
 
+**Rollfinder Twitter**
+https://twitter.com/rollfinder
+
+**Rollfinder Discord**
+https://discord.com/invite/vKWCSy5sn2
+
 **For wishlists see:**
 https://github.com/48klocs/dim-wish-list-sources
 
