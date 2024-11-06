@@ -1,6 +1,7 @@
-No longer maintained, for rolls/wishlists see:
+No longer maintained
 
-**For wishlists see:**
+# For rolls/wishlists see:
+
 - https://www.perkhunter.net
 - https://www.light.gg
 - https://github.com/48klocs/dim-wish-list-sources
